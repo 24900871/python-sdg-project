@@ -29,6 +29,7 @@ This project supports **United Nations Sustainable Development Goal 13 (Climate 
 
 ## CODE :
 
+~~~
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -64,6 +65,7 @@ plt.title("Weather Prediction")
 plt.grid()
 plt.show()
 
+~~~
 ## OUTPUT:
 <img width="263" height="115" alt="image" src="https://github.com/user-attachments/assets/921c90b1-a679-4ee0-96c3-627e6bf478db" />
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/f0d292d4-c9de-4a5c-8665-9aa2d102f52b" />
